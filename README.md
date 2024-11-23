@@ -1,6 +1,13 @@
 <h1 align="center">Welcome to Basmala Said's Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/basmala-said-024751285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
