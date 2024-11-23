@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/basmala-said-024751285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  <a href="basmala30311@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
