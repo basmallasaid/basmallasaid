@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Basmala Said's Profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
-<h3 align="center">FULL Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
