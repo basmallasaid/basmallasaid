@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Welcome to Basmala Said's Profile 👋</h1>
+<h3 align="center">FULL Stack Web Developer</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
