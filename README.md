@@ -1,106 +1,70 @@
 <div align="center">
-  <h1>
-    Welcome to Basmala Said's Profile 
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  </h1>
-  
-  <h3>Software Engineer</h3>
+
+# 👋 Hi there, I'm Basmala Said
+### Software Engineer | Full-Stack Developer | Mobile App Enthusiast
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn" width="100%">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basmala-said-024751285)](https://www.linkedin.com/in/basmala-said-024751285)
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:basmala30311@gmail.com)](mailto:basmala30311@gmail.com)
+
 </div>
 
 ---
 
-## 🌟 Connect with me
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/basmala-said-024751285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Basmala%20Said-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<details open>
+  <summary><b>🎨 Front-End Development</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="typescript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="sass" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jquery" />
+  </p>
+</details>
 
-  <a href="mailto:basmala30311@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-basmala30311@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<details open>
+  <summary><b>📱 Mobile Development</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flutter" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="dart" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="reactnative" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>⚙️ Back-End & Database</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="csharp" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="dotnet" />
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="sqlserver" />
+  </p>
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basmalasaid&show_icons=true&theme=visual_studio_code" alt="Basmala's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalasaid&layout=compact&theme=visual_studio_code" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-# 🎨 Front-End
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
+</div>
 
-<p align="left">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
-  </a>
-
-</p>
-
----
-
-# 📱 Mobile Development
-
-<p align="left">
-
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" height="50"/>
-  </a>
-
-</p>
-
----
-
-# ⚙️ Back-End & Database
-
-<p align="left">
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/>
-  </a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basmalasaid&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
