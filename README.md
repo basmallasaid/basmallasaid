@@ -3,8 +3,6 @@
 # 👋 Hi there, I'm Basmala Said
 ### Software Engineer | Full-Stack Developer | Mobile App Enthusiast
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn" width="100%">
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basmala-said-024751285)](https://www.linkedin.com/in/basmala-said-024751285)
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:basmala30311@gmail.com)](mailto:basmala30311@gmail.com)
 
@@ -49,15 +47,6 @@
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="sqlserver" />
   </p>
 </details>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basmalasaid&show_icons=true&theme=visual_studio_code" alt="Basmala's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalasaid&layout=compact&theme=visual_studio_code" alt="Top Languages" height="150" />
-</p>
 
 ---
 
